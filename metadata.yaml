@@ -1,0 +1,36 @@
+_repo: Kadonnut-prinssi-b-Historiallinen-seikkailuromaani_73529
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2024-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73529'
+language: fi
+pgterms:marc905: 20240502103258burroughs
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kadonnut prinssi : $b Historiallinen seikkailuromaani'
+url: http://www.gutenberg.org/ebooks/73529
